@@ -2,7 +2,7 @@
   "name": "Tres Commas",
   "symbol": "TRES",
   "description": "Tres Commas (TRES) is the baller’s coin for anyone chasing three commas.",
-  "uri": "", 
+  "uri": "https://raw.githubusercontent.com/nfoudi/tres-commas-metadata/83843bf8d0e367ca0b0b4d2f3a6564aed95c2279/metadata.json", 
   "seller_fee_basis_points": 0,
   "creators": [
     {
@@ -10,12 +10,12 @@
       "share": 100
     }
   ],
-  "image": "tres-commas.png",
+  "image": "https://raw.githubusercontent.com/nfoudi/tres-commas-metadata/83843bf8d0e367ca0b0b4d2f3a6564aed95c2279/tres-commas.png",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "tres-commas.png",
+        "uri": "https://raw.githubusercontent.com/nfoudi/tres-commas-metadata/83843bf8d0e367ca0b0b4d2f3a6564aed95c2279/tres-commas.png",
         "type": "image/png"
       }
     ]
