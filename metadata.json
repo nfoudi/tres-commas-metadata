@@ -1,0 +1,23 @@
+{
+  "name": "Tres Commas",
+  "symbol": "TRES",
+  "description": "Tres Commas (TRES) is the baller’s coin for anyone chasing three commas.",
+  "uri": "", 
+  "seller_fee_basis_points": 0,
+  "creators": [
+    {
+      "address": "BSHHKmMn7WzWTJ9BUDEUbuoeS4e3eXy9mVhsWhsvhY87", 
+      "share": 100
+    }
+  ],
+  "image": "tres-commas.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "tres-commas.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
